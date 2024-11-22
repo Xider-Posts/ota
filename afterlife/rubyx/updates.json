@@ -1,20 +1,20 @@
 {
     "response": [
         {
-            "maintainer": "empty",
-            "oem": "empty",
-            "device": "empty",
-            "version": "empty",
-            "codename": "empty",
-            "filename": "empty",
-            "download": "empty",
-            "timestamp": empty,
-            "md5": "empty",
-            "sha256": "empty",
-            "size": empty,
-            "buildtype": "empty",
-            "forum": "empty",
-            "telegram": "empty"
+            "maintainer": "postcumer",
+            "oem": "Xiaomi",
+            "device": "Redmi Note 12 Pro/Pro+/Discovery 5G",
+            "version": "7.2_polite",
+            "codename": "community_20241122",
+            "filename": "afterlife_rubyx-7.2_polite-community_20241122-vanilla.zip",
+            "download": "https://github.com/Xider-Posts/releases/releases/download/afterlife-22-nov-2024/afterlife_rubyx-7.2_polite-community_20241122-vanilla.zip",
+            "timestamp": 1732273946,
+            "md5": "0f3f3d8505c0fd1273f4ab71fa38f48e",
+            "sha256": "8c270bd0186d243822a69b9f980c42e389560f75551acf3de719fa45c00cbe06",
+            "size": 1377940383,
+            "buildtype": "UNOFFICIAL",
+            "forum": "https://t.me/doxodumps",
+            "telegram": "https://t.me/doxodumps"
         }
     ]
 }
