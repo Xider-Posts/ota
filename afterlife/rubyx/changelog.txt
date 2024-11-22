@@ -1,0 +1,14 @@
+Highlights & Device Specific Changes:
+Build type: UnOfficial
+Device: Redmi Note 12 Pro/Pro+/Discovery 5G (rubyx)
+Device maintainer: postcumer
+
+Highlights & Device Specific Changes:
+=====================================
+22nd November, 2024
+
+- Initial Release A14
+
+Credits ~
+@Bengris32 for overall dts development
+@BillaBong for testing
